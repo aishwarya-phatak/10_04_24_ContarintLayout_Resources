@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">10_04_24_ContarintLayout&amp;Resources</string>
+    <string name="name">Harshada</string>
+    <string-array name="students_names">
+        <item>Amrut</item>
+        <item>Archana</item>
+        <item>Viresh</item>
+        <item>Prasad</item>
+        <item>Vaibhav</item>
+    </string-array>
+</resources>
